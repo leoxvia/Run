@@ -1,0 +1,1 @@
+gvim "C:\Program Files (x86)\Vim\vim74\tutor\tutor.zh_cn.utf-8"
