@@ -1,0 +1,27 @@
+cd %userprofile%\Documents\Projects\VS\Windows
+cd EHang.FormationCreator
+git pull
+cd ..
+cd EHang.FormationCreator2
+git pull
+cd ..
+cd EHang.Libraries
+git pull
+cd ..
+cd EHang.OperationPanelOfThatAircraft
+git pull
+cd ..
+cd EHang.Sdk3
+git pull
+cd ..
+cd EHang.Sdk4
+git pull
+cd ..
+cd EHang.UI
+git pull
+cd ..
+cd EHang.UserToolkit
+git pull
+cd %userprofile%\Documents\FormationData
+git pull
+pause
