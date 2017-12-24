@@ -1,27 +1,27 @@
 cd %userprofile%\Documents\Projects\VS\Windows
 cd EHang.FormationCreator
-git pull usb
+git push usb
 cd ..
 cd EHang.FormationCreator2
-git pull usb
+git push usb
 cd ..
 cd EHang.Libraries
-git pull usb
+git push usb
 cd ..
 cd EHang.OperationPanelOfThatAircraft
-git pull usb
+git push usb
 cd ..
 cd EHang.Sdk3
-git pull usb
+git push usb
 cd ..
 cd EHang.Sdk4
-git pull usb
+git push usb
 cd ..
 cd EHang.UI
-git pull usb
+git push usb
 cd ..
 cd EHang.UserToolkit
-git pull usb
+git push usb
 cd %userprofile%\Documents\FormationData
-git pull usb
+git push usb
 pause
