@@ -22,6 +22,9 @@ git pull usb dev
 cd ..
 cd EHang.UserToolkit
 git pull usb dev
+cd ..
+cd EHang.DiagnosticTools
+git pull usb dev
 cd %userprofile%\Documents\FormationData
 git pull usb master
 pause

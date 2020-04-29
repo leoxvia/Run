@@ -22,6 +22,9 @@ git push usb
 cd ..
 cd EHang.UserToolkit
 git push usb
+cd ..
+cd EHang.DiagnosticTools
+git push usb
 cd %userprofile%\Documents\FormationData
 git push usb
 pause
